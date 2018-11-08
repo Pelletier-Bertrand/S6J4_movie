@@ -1,24 +1,17 @@
-# README
+# The Hacking Project - Semaine 6 - Jeudi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Projet : Movie Search
 
-Things you may want to cover:
 
-* Ruby version
+## Liens du projet:
+https://movie-caen.herokuapp.com/
 
-* System dependencies
+## Auteurs
 
-* Configuration
+*   Team Caen
+*   Maxime Beaufils, Bertrand Pelletier, Iliès El Ouartassi
 
-* Database creation
+## En savoir plus
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Project for The hacking Project
+* https://www.thehackingproject.org/
